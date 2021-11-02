@@ -25,17 +25,15 @@ I will use the data from [https://portal.gdc.cancer.gov/repository](https://port
 
 **Due Date:** Thursday November 11th
 
-### Data loaded into vignette (through htseq) 
-
+** Data fully loaded into vignette through HT-SEQ steps ** I will complete an entire first draft of analysis analyzed through the vignette.
 
 
 ## Milestone 2
 
 > You should define your milestone 2 which should be an initial running of the entire vignette for feedback.
 
-### Initial completion of vignette and seeking of feedback.
+**An initial completion of vignette.** I will complete an entire first draft of analysis analyzed through the vignette.Data loaded into vignette (through htseq), for seeking feedback.  Not all sections in the writing will be completed, but will be final project.
 
-An initial completion of vignette.
 
 ## Deliverable
 
